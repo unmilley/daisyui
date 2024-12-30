@@ -1,6 +1,6 @@
 {
   "name": "@unmilley/daisyui",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "Generating a theme for 🌼 daisyUI in the usual way via config",
   "license": "MIT",
   "sideEffects": false,
