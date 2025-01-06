@@ -80,5 +80,5 @@ export default <Partial<Config>>{
 [npm-version-href]: https://npmjs.com/package/@unmilley/daisyui
 [npm-downloads-src]: https://img.shields.io/npm/dm/@unmilley/daisyui?style=flat&colorA=18181B&colorB=fbd38d
 [npm-downloads-href]: https://npmjs.com/package/@unmilley/daisyui
-[license-src]: https://img.shields.io/github/license/unmilley/daisyui-theme-generator.svg?style=flat&colorA=18181B&colorB=fbd38d
-[license-href]: https://github.com/unmilley/daisyui-theme-generator/blob/main/LICENSE
+[license-src]: https://img.shields.io/github/license/unmilley/daisyui.svg?style=flat&colorA=18181B&colorB=fbd38d
+[license-href]: https://github.com/unmilley/daisyui/blob/master/LICENSE
